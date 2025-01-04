@@ -21,3 +21,5 @@ int main()
 
     return 0;
 }
+
+//Const can also be used to overload functions
